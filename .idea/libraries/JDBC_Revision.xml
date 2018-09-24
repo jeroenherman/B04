@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="JDBC_Revision">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JDBC_Revision.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Documenten/Opleiding/B03 Programmeren 4/drivers/mysql-connector-java-5.1.13-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/JDBC_Revision.jar!/" />
+    </SOURCES>
+  </library>
+</component>
